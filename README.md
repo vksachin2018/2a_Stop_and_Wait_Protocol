@@ -1,4 +1,7 @@
 # 2a_Stop_and_Wait_Protocol
+### DATE: 26/08/2024
+### NAME: GOKUL SACHIN K
+### REGISTER NO: 212223220025
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
